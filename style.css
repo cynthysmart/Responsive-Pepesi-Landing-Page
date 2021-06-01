@@ -9,6 +9,9 @@ body {
     list-style: none;     
 }
 
+main {
+    height: 80vh;
+}
 
 /*Phone view*/
 @media screen and (max-width: 800px) {
